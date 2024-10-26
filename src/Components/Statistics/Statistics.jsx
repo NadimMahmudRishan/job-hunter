@@ -1,6 +1,6 @@
 import FeaturedJobs from "../FeaturedJobs/FeaturedJobs";
-import Hero from "../Hero/Hero";
 import JobCategory from "../JobCategory/JobCategory";
+import Hero from "../Hero/Hero";
 const Statistics = () => {
   return (
     <div>
