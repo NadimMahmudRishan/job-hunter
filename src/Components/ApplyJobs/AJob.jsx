@@ -6,8 +6,8 @@ const AJob = ({ job }) => {
   const { id, logo, jobTitle, companyName, address, salaryRange, jobType } =
     job;
   return (
-    <div className="w-[1400px] flex mx-auto justify-between items-center border border-[#E8E8E8] rounded-lg shadow-md md:my-6 md:p-5">
-      <img className="w-60" src={logo} alt="" />
+    <div className="md:w-[1400px] w-72 flex flex-col md:flex-row mx-auto justify-between items-center border border-[#E8E8E8] rounded-lg shadow-md my-3 md:my-6 p-3 md:p-5">
+      <img className="md:w-60 w-40" src={logo} alt="" />
       <div>
         <h2 className="text-[#474747] text-2xl font-semibold">{jobTitle}</h2>
         <h4 className="text-[#757575] font-light">{companyName}</h4>
