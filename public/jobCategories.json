@@ -1,0 +1,22 @@
+[
+  {
+    "logo": "https://i.ibb.co.com/R29vKkh/accounts.png",
+    "jobTitle": "Software Engineer",
+    "available": 150
+  },
+  {
+    "logo": "https://i.ibb.co.com/9w3cf71/chip.png",
+    "jobTitle": "Data Analyst",
+    "available": 205
+  },
+  {
+    "logo": "https://i.ibb.co.com/T0JBfd0/creative.png",
+    "jobTitle": "Product Manager",
+    "available": 210
+  },
+  {
+    "logo": "https://i.ibb.co.com/4fm09Zy/marketing.png",
+    "jobTitle": "UX Designer",
+    "available": 195
+  }
+]

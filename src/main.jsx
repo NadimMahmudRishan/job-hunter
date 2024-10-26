@@ -4,6 +4,7 @@ import './index.css'
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Root from './Components/Root/Root';
 import ApplyJobs from './Components/ApplyJobs/ApplyJobs';
+import Statistics from './Components/Statistics/Statistics';
 
 const router = createBrowserRouter([
   {
@@ -14,6 +15,11 @@ const router = createBrowserRouter([
       {
         path: "/applyJobs",
         element: <ApplyJobs></ApplyJobs>,
+      },
+      {
+        path: "/statistics",
+        loader: () => fetch('/public/jobCategories.json'),
+        element: <Statistics></Statistics>,
       },
     ],
   },
