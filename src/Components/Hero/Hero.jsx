@@ -18,7 +18,7 @@ const Hero = () => {
             need. Its your future. Come find it. Manage all your job application
             from start to finish.
           </p>
-          <button className="btn bg-gradient-to-r from-[#7E90FE] to-[#9873FF]">
+          <button className="btn bg-gradient-to-r from-[#7E90FE] to-[#9873FF] text-white text-xl font-medium">
             Get Started
           </button>
         </div>

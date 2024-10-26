@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "logo": "https://i.ibb.co.com/Z68SqB2/rb-40.png",
+    "logo": "https://i.ibb.co.com/5sbRfXp/rb-40.png",
     "jobTitle": "Frontend Developer",
     "companyName": "Tech Solutions Inc.",
     "address": "123 Tech Street, San Francisco, CA",
@@ -10,7 +10,9 @@
     "jobResponsibility": "Build responsive web pages and interactive user interfaces. Implement front-end logic and integration with backend APIs. Collaborate with UI/UX designers to ensure consistency and create engaging user experiences. Write clean, reusable, and maintainable code for future scalability. Participate in code reviews and contribute to team knowledge-sharing initiatives.",
     "education": "Bachelor's in Computer Science",
     "experience": 2,
-    "jobType": ["Remote", "Full Time"]
+    "jobType": ["Remote", "Full Time"],
+    "phone": "415-555-1234",
+    "email": "hr@techsolutions.com"
   },
   {
     "id": 2,
@@ -23,7 +25,9 @@
     "jobResponsibility": "Collect, clean, and organize data from various sources. Perform statistical analysis to identify trends and correlations. Create reports and dashboards to communicate findings clearly. Collaborate with other teams to support data-driven decision-making. Ensure data accuracy, security, and compliance with company standards.",
     "education": "Bachelor's in Data Science",
     "experience": 1,
-    "jobType": ["Onsite", "Full Time"]
+    "jobType": ["Onsite", "Full Time"],
+    "phone": "212-555-6789",
+    "email": "careers@insightsanalytics.com"
   },
   {
     "id": 3,
@@ -36,7 +40,9 @@
     "jobResponsibility": "Write, test, and deploy code for various applications. Collaborate with other developers and stakeholders to define project requirements effectively. Debug and troubleshoot issues to ensure seamless functionality. Implement best practices for coding standards, security, and scalability. Continuously improve application performance and usability.",
     "education": "Bachelor's in Software Engineering",
     "experience": 3,
-    "jobType": ["Remote", "Onsite"]
+    "jobType": ["Remote", "Onsite"],
+    "phone": "512-555-2468",
+    "email": "jobs@globaltechsystems.com"
   },
   {
     "id": 4,
@@ -49,7 +55,9 @@
     "jobResponsibility": "Define and prioritize product requirements based on research. Coordinate with design, engineering, and marketing teams to align on project goals. Set product timelines and ensure timely delivery. Conduct market research to understand user needs and industry trends. Manage product lifecycle and iteration based on feedback and performance metrics.",
     "education": "Bachelor's in Business Administration",
     "experience": 2,
-    "jobType": ["Full Time", "Onsite"]
+    "jobType": ["Full Time", "Onsite"],
+    "phone": "206-555-7390",
+    "email": "recruitment@innovatecorp.com"
   },
   {
     "id": 5,
@@ -62,7 +70,9 @@
     "jobResponsibility": "Create wireframes, prototypes, and visual designs. Conduct user research and testing to gather feedback on design elements. Collaborate with developers for seamless implementation across devices. Maintain design consistency across products to enhance brand identity. Adapt design trends to keep interfaces modern, functional, and visually appealing.",
     "education": "Bachelor's in Graphic Design",
     "experience": 1,
-    "jobType": ["Remote", "Full Time"]
+    "jobType": ["Remote", "Full Time"],
+    "phone": "305-555-1647",
+    "email": "apply@creativedesigns.com"
   },
   {
     "id": 6,
@@ -75,7 +85,9 @@
     "jobResponsibility": "Build and maintain server-side logic for scalability. Integrate with frontend applications and manage database operations efficiently. Implement security measures and optimize APIs. Write clean, scalable code that supports growth. Monitor and troubleshoot backend services to ensure minimal downtime.",
     "education": "Bachelor's in Computer Science",
     "experience": 2,
-    "jobType": ["Onsite", "Full Time"]
+    "jobType": ["Onsite", "Full Time"],
+    "phone": "303-555-4856",
+    "email": "backendjobs@serversolutions.com"
   },
   {
     "id": 7,
@@ -88,7 +100,9 @@
     "jobResponsibility": "Develop and implement digital marketing strategies across multiple channels. Optimize content for search engines and social media platforms. Track and analyze campaign performance metrics. Coordinate with creative teams to support content creation. Stay updated on digital marketing trends to drive impactful campaigns.",
     "education": "Bachelor's in Marketing",
     "experience": 2,
-    "jobType": ["Remote", "Onsite"]
+    "jobType": ["Remote", "Onsite"],
+    "phone": "312-555-9274",
+    "email": "digitalcareers@marketmasters.com"
   },
   {
     "id": 8,
@@ -101,7 +115,9 @@
     "jobResponsibility": "Recruit and onboard new employees for various roles. Manage employee relations and address workplace issues promptly. Develop and enforce HR policies for compliance. Conduct training and development programs for employees. Ensure compliance with labor laws and ethical standards.",
     "education": "Bachelor's in Human Resources",
     "experience": 3,
-    "jobType": ["Onsite", "Full Time"]
+    "jobType": ["Onsite", "Full Time"],
+    "phone": "617-555-7300",
+    "email": "hr@peoplefirstsolutions.com"
   },
   {
     "id": 9,
@@ -114,7 +130,9 @@
     "jobResponsibility": "Write and edit content for blogs, websites, and social media channels. Conduct research to create accurate, informative, and well-researched content. Collaborate with the marketing team for effective content strategy. Follow SEO guidelines for optimized reach and ranking. Adapt tone and style according to target audience preferences.",
     "education": "Bachelor's in English or Journalism",
     "experience": 1,
-    "jobType": ["Remote", "Full Time"]
+    "jobType": ["Remote", "Full Time"],
+    "phone": "323-555-2221",
+    "email": "writerjobs@writeworks.com"
   },
   {
     "id": 10,
@@ -127,6 +145,8 @@
     "jobResponsibility": "Assist in planning and organizing project activities from inception to completion. Track progress and maintain comprehensive documentation. Communicate project updates with stakeholders regularly. Manage project schedules and budgets effectively. Ensure project milestones are met within scope and resources.",
     "education": "Bachelor's in Project Management",
     "experience": 2,
-    "jobType": ["Full Time", "Onsite"]
+    "jobType": ["Full Time", "Onsite"],
+    "phone": "215-555-5692",
+    "email": "apply@organizeitsolutions.com"
   }
 ]
