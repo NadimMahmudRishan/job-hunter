@@ -15,7 +15,7 @@ const JobCategory = () => {
             need. Its your future
           </p>
         </div>
-        <div className=" grid grid-cols-2 md:grid-cols-4 mx-auto md:w-full justify-between items-center gap-2 md:gap-5">
+        <div className=" flex flex-wrap mx-auto justify-evenly md:justify-between md:w-full gap-2 md:gap-5">
           {categories.map((categori, xid) => (
             <Category key={xid} categori={categori}></Category>
           ))}

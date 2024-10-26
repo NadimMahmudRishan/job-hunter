@@ -22,9 +22,9 @@ const FeaturedJobs = () => {
               you need. Its your future
             </p>
           </div>
-          <div className="grid md:grid-cols-2 grid-cols-1 items-center justify-between md:w-full mx-auto">
+          <div className="flex flex-col md:flex-row md:flex-wrap items-center justify-between md:w-full mx-auto gap-10">
             {jobs.map((job) => (
-              <FJob key={job.id}></FJob>
+              <FJob className="w-full" key={job.id} job={job}></FJob>
             ))}
           </div>
         </div>
